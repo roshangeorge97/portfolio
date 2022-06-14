@@ -21,13 +21,13 @@
 .name-p1{
   display: none;
   color:#ffff;
-    position: relative;
+    position: absolute;
     right: 63%;
     font-family: 'PT Sans', sans-serif;
     font-size: 65px;
-    top:10%;
+    top:2%;
     z-index: -1;
-    left: 0%;
+    left: 1%;
 }
 .name-p2{
   display: none;
@@ -61,7 +61,6 @@ body{
     background-color: #3aafa9;
     overflow-x: hidden;
 }
-
 
 .navbarcon{
     height: 100%;
@@ -252,7 +251,7 @@ z-index: 1;
     display: block;
     position: absolute;
     top: 78%;
-    left: 24%;
+    left: 20%;
     background-color: #3aafa9;
     font-size: 30px;
     padding: 9px 10px 10px 20px;
