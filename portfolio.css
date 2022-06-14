@@ -158,10 +158,6 @@ body{
   }
 
 @media (max-width: 450px){
-    .nav-btn {
-        display: none;
-
-    }
    
 }
 
