@@ -55,7 +55,7 @@
 
 body{
     display: flex;
-    height: auto;
+    height: 1200px;
     justify-content: space-between;
     align-items: center;
     background-color: #3aafa9;
