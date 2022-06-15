@@ -157,49 +157,6 @@ body{
     }
   }
 
-@media (max-width: 450px){
-  body{
-    background-color:#2B7A78;
-  }
-   .nav-btn{
-    position: absolute;
-    top: 0%;
-    width: 10%;
-    height: 3%;
-    left: -2%;
-    right: -7%;
-   }
-   .name-p1{
-    display: block;
-   }
-   .name h1{
-    display: none;
-   }
-   .name h2{
-    display: none;
-   }
-   .name-p2{
-    display: block;
-   }
-   .hello{
-    display: block;
-    position: absolute;
-    top: 102%;
-    left: 24%;
-    background-color: #3aafa9;
-    font-size: 30px;
-    padding: 9px 10px 10px 20px;
-   }
-   .bio{
-    display: none;
-   }
- .pattern{
-  display:block;
- }
- #navbar{
-  padding-right: 10%;
- }
-}
 
 @keyframes move{
      0% {
@@ -304,7 +261,7 @@ z-index: 1;
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
+@media only screen and (max-width: 600px) {
   body{
     background-color:#2B7A78;
   }
@@ -331,7 +288,7 @@ z-index: 1;
    .hello{
     display: block;
     position: absolute;
-    top: 102%;
+    top: 120%;
     left: 24%;
     background-color: #3aafa9;
     font-size: 30px;
@@ -350,46 +307,6 @@ z-index: 1;
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (max-width: 768px) {
-  body{
-    background-color:#2B7A78;
-  }
-   .nav-btn{
-    position: absolute;
-    top: 0%;
-    width: 10%;
-    height: 3%;
-    left: -2%;
-    right: -7%;
-   }
-   .name-p1{
-    display: block;
-   }
-   .name h1{
-    display: none;
-   }
-   .name h2{
-    display: none;
-   }
-   .name-p2{
-    display: block;
-   }
-   .hello{
-    display: block;
-    position: absolute;
-    top: 102%;
-    left: 24%;
-    background-color: #3aafa9;
-    font-size: 30px;
-    padding: 9px 10px 10px 20px;
-   }
-   .bio{
-    display: none;
-   }
- .pattern{
-  display:block;
- }
- #navbar{
-  padding-right: 10%;
- }
+  
 }
 
