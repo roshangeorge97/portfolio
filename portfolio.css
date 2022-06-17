@@ -243,7 +243,7 @@ z-index: 1;
    .hello{
     display: block;
     position: absolute;
-    top: 102%;
+    top: 110%;
     left: 24%;
     background-color: #3aafa9;
     font-size: 30px;
@@ -252,9 +252,6 @@ z-index: 1;
    .bio{
     display: none;
    }
- .pattern{
-  display:block;
- }
  #navbar{
   padding-right: 10%;
  }
@@ -288,7 +285,7 @@ z-index: 1;
    .hello{
     display: block;
     position: absolute;
-    top: 120%;
+    top: 126%;
     left: 24%;
     background-color: #3aafa9;
     font-size: 30px;
