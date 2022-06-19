@@ -231,6 +231,7 @@ z-index: 1;
    }
    .name-p1{
     display: block;
+    font-size:50px;
    }
    .name h1{
     display: none;
@@ -240,12 +241,13 @@ z-index: 1;
    }
    .name-p2{
     display: block;
+    font-size:50px;
    }
    .hello{
     display: block;
     position: absolute;
     top: 126%;
-    left: 19%;
+    left: 21%;
     background-color: #2B7A78;
     font-size: 30px;
     padding: 9px 10px 10px 20px;
